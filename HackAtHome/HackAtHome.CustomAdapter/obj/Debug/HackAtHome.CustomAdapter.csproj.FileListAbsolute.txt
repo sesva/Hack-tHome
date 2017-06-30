@@ -1,0 +1,15 @@
+C:\Users\sesva\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapter\bin\Debug\HackAtHome.CustomAdapter.dll
+C:\Users\sesva\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapter\bin\Debug\HackAtHome.CustomAdapter.pdb
+C:\Users\sesva\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapter\bin\Debug\HackAtHome.CustomAdapter.apk
+C:\Users\sesva\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapter\bin\Debug\HackAtHome.CustomAdapter-Signed.apk
+C:\Users\sesva\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapter\bin\Debug\HackAtHome.Entities.dll
+C:\Users\sesva\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapter\bin\Debug\HackAtHome.Entities.pdb
+C:\Users\sesva\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapter\obj\Debug\HackAtHome.CustomAdapter.csprojResolveAssemblyReference.cache
+C:\Users\sesva\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapter\obj\Debug\HackAtHome.CustomAdapter.dll
+C:\Users\sesva\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapter\obj\Debug\HackAtHome.CustomAdapter.pdb
+C:\Users\sesva\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapter\obj\Debug\android\bin\HackAtHome.CustomAdapter.apk
+C:\Users\sesva\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapter\obj\Debug\res\values\strings.xml
+C:\Users\sesva\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapter\obj\Debug\R.cs.flag
+C:\Users\sesva\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapter\obj\Debug\uploadflags.txt
+C:\Users\sesva\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapter\bin\Debug\HackAtHome.Entities.dll.mdb
+C:\Users\sesva\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapter\bin\Debug\HackAtHome.CustomAdapter.dll.mdb
